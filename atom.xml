@@ -3,11 +3,11 @@
   <title>ZERO开发</title>
   
   <subtitle>一个探索副业的独立开发人博客</subtitle>
-  <link href="http://z11r00.github.io/atom.xml" rel="self"/>
+  <link href="https://www.zerofc.cn/atom.xml" rel="self"/>
   
-  <link href="http://z11r00.github.io/"/>
+  <link href="https://www.zerofc.cn/"/>
   <updated>2024-06-01T03:54:55.973Z</updated>
-  <id>http://z11r00.github.io/</id>
+  <id>https://www.zerofc.cn/</id>
   
   <author>
     <name>北桥苏</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>【YOLOv5】实现扑克牌的点数识别</title>
-    <link href="http://z11r00.github.io/2024/05/30/%E3%80%90YOLOv5%E3%80%91%E5%AE%9E%E7%8E%B0%E6%89%91%E5%85%8B%E7%89%8C%E7%9A%84%E7%82%B9%E6%95%B0%E8%AF%86%E5%88%AB/"/>
-    <id>http://z11r00.github.io/2024/05/30/%E3%80%90YOLOv5%E3%80%91%E5%AE%9E%E7%8E%B0%E6%89%91%E5%85%8B%E7%89%8C%E7%9A%84%E7%82%B9%E6%95%B0%E8%AF%86%E5%88%AB/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/%E3%80%90YOLOv5%E3%80%91%E5%AE%9E%E7%8E%B0%E6%89%91%E5%85%8B%E7%89%8C%E7%9A%84%E7%82%B9%E6%95%B0%E8%AF%86%E5%88%AB/"/>
+    <id>https://www.zerofc.cn/2024/05/30/%E3%80%90YOLOv5%E3%80%91%E5%AE%9E%E7%8E%B0%E6%89%91%E5%85%8B%E7%89%8C%E7%9A%84%E7%82%B9%E6%95%B0%E8%AF%86%E5%88%AB/</id>
     <published>2024-05-30T12:13:50.000Z</published>
     <updated>2024-06-01T03:54:55.973Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="人工智能" scheme="http://z11r00.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://www.zerofc.cn/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="计算机视觉" scheme="http://z11r00.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    <category term="计算机视觉" scheme="https://www.zerofc.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
     
   </entry>
   
   <entry>
     <title>如何将 Python 项目打包成 exe，另带卸载功能！</title>
-    <link href="http://z11r00.github.io/2024/05/30/%E5%A6%82%E4%BD%95%E5%B0%86%20Python%20%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E6%88%90%20exe%EF%BC%8C%E5%8F%A6%E5%B8%A6%E5%8D%B8%E8%BD%BD%E5%8A%9F%E8%83%BD%EF%BC%81/"/>
-    <id>http://z11r00.github.io/2024/05/30/%E5%A6%82%E4%BD%95%E5%B0%86%20Python%20%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E6%88%90%20exe%EF%BC%8C%E5%8F%A6%E5%B8%A6%E5%8D%B8%E8%BD%BD%E5%8A%9F%E8%83%BD%EF%BC%81/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/%E5%A6%82%E4%BD%95%E5%B0%86%20Python%20%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E6%88%90%20exe%EF%BC%8C%E5%8F%A6%E5%B8%A6%E5%8D%B8%E8%BD%BD%E5%8A%9F%E8%83%BD%EF%BC%81/"/>
+    <id>https://www.zerofc.cn/2024/05/30/%E5%A6%82%E4%BD%95%E5%B0%86%20Python%20%E9%A1%B9%E7%9B%AE%E6%89%93%E5%8C%85%E6%88%90%20exe%EF%BC%8C%E5%8F%A6%E5%B8%A6%E5%8D%B8%E8%BD%BD%E5%8A%9F%E8%83%BD%EF%BC%81/</id>
     <published>2024-05-30T11:13:50.000Z</published>
     <updated>2024-06-01T03:59:01.724Z</updated>
     
@@ -57,17 +57,17 @@
     
     
     
-    <category term="Python开发" scheme="http://z11r00.github.io/categories/Python%E5%BC%80%E5%8F%91/"/>
+    <category term="Python开发" scheme="https://www.zerofc.cn/categories/Python%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="桌面应用开发" scheme="http://z11r00.github.io/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/"/>
+    <category term="桌面应用开发" scheme="https://www.zerofc.cn/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E5%BC%80%E5%8F%91/"/>
     
   </entry>
   
   <entry>
     <title>如何用 Python 实现一个 “系统声音” 的实时律动挂件</title>
-    <link href="http://z11r00.github.io/2024/05/30/%E5%A6%82%E4%BD%95%E7%94%A8%20Python%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20%E2%80%9C%E7%B3%BB%E7%BB%9F%E5%A3%B0%E9%9F%B3%E2%80%9D%20%E7%9A%84%E5%AE%9E%E6%97%B6%E5%BE%8B%E5%8A%A8%E6%8C%82%E4%BB%B6/"/>
-    <id>http://z11r00.github.io/2024/05/30/%E5%A6%82%E4%BD%95%E7%94%A8%20Python%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20%E2%80%9C%E7%B3%BB%E7%BB%9F%E5%A3%B0%E9%9F%B3%E2%80%9D%20%E7%9A%84%E5%AE%9E%E6%97%B6%E5%BE%8B%E5%8A%A8%E6%8C%82%E4%BB%B6/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/%E5%A6%82%E4%BD%95%E7%94%A8%20Python%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20%E2%80%9C%E7%B3%BB%E7%BB%9F%E5%A3%B0%E9%9F%B3%E2%80%9D%20%E7%9A%84%E5%AE%9E%E6%97%B6%E5%BE%8B%E5%8A%A8%E6%8C%82%E4%BB%B6/"/>
+    <id>https://www.zerofc.cn/2024/05/30/%E5%A6%82%E4%BD%95%E7%94%A8%20Python%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20%E2%80%9C%E7%B3%BB%E7%BB%9F%E5%A3%B0%E9%9F%B3%E2%80%9D%20%E7%9A%84%E5%AE%9E%E6%97%B6%E5%BE%8B%E5%8A%A8%E6%8C%82%E4%BB%B6/</id>
     <published>2024-05-30T10:13:50.000Z</published>
     <updated>2024-05-31T02:38:43.048Z</updated>
     
@@ -81,17 +81,17 @@
     
     
     
-    <category term="Python开发" scheme="http://z11r00.github.io/categories/Python%E5%BC%80%E5%8F%91/"/>
+    <category term="Python开发" scheme="https://www.zerofc.cn/categories/Python%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="音频处理" scheme="http://z11r00.github.io/tags/%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/"/>
+    <category term="音频处理" scheme="https://www.zerofc.cn/tags/%E9%9F%B3%E9%A2%91%E5%A4%84%E7%90%86/"/>
     
   </entry>
   
   <entry>
     <title>基于 pytorch-openpose 实现 “多目标” 人体姿态估计</title>
-    <link href="http://z11r00.github.io/2024/05/30/%E5%9F%BA%E4%BA%8E%20pytorch-openpose%20%E5%AE%9E%E7%8E%B0%20%E2%80%9C%E5%A4%9A%E7%9B%AE%E6%A0%87%E2%80%9D%20%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/"/>
-    <id>http://z11r00.github.io/2024/05/30/%E5%9F%BA%E4%BA%8E%20pytorch-openpose%20%E5%AE%9E%E7%8E%B0%20%E2%80%9C%E5%A4%9A%E7%9B%AE%E6%A0%87%E2%80%9D%20%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/%E5%9F%BA%E4%BA%8E%20pytorch-openpose%20%E5%AE%9E%E7%8E%B0%20%E2%80%9C%E5%A4%9A%E7%9B%AE%E6%A0%87%E2%80%9D%20%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/"/>
+    <id>https://www.zerofc.cn/2024/05/30/%E5%9F%BA%E4%BA%8E%20pytorch-openpose%20%E5%AE%9E%E7%8E%B0%20%E2%80%9C%E5%A4%9A%E7%9B%AE%E6%A0%87%E2%80%9D%20%E4%BA%BA%E4%BD%93%E5%A7%BF%E6%80%81%E4%BC%B0%E8%AE%A1/</id>
     <published>2024-05-30T10:00:50.000Z</published>
     <updated>2024-05-31T11:28:55.696Z</updated>
     
@@ -105,17 +105,17 @@
     
     
     
-    <category term="人工智能" scheme="http://z11r00.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://www.zerofc.cn/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="计算机视觉" scheme="http://z11r00.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    <category term="计算机视觉" scheme="https://www.zerofc.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
     
   </entry>
   
   <entry>
     <title>后端搞 Cocos 小游戏开发的三点避坑指北</title>
-    <link href="http://z11r00.github.io/2024/05/30/%E5%90%8E%E7%AB%AF%E6%90%9E%20Cocos%20%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%89%E7%82%B9%E9%81%BF%E5%9D%91%E6%8C%87%E5%8C%97/"/>
-    <id>http://z11r00.github.io/2024/05/30/%E5%90%8E%E7%AB%AF%E6%90%9E%20Cocos%20%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%89%E7%82%B9%E9%81%BF%E5%9D%91%E6%8C%87%E5%8C%97/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/%E5%90%8E%E7%AB%AF%E6%90%9E%20Cocos%20%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%89%E7%82%B9%E9%81%BF%E5%9D%91%E6%8C%87%E5%8C%97/"/>
+    <id>https://www.zerofc.cn/2024/05/30/%E5%90%8E%E7%AB%AF%E6%90%9E%20Cocos%20%E5%B0%8F%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E7%9A%84%E4%B8%89%E7%82%B9%E9%81%BF%E5%9D%91%E6%8C%87%E5%8C%97/</id>
     <published>2024-05-30T09:30:50.000Z</published>
     <updated>2024-06-01T04:00:15.614Z</updated>
     
@@ -129,17 +129,17 @@
     
     
     
-    <category term="游戏开发" scheme="http://z11r00.github.io/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
+    <category term="游戏开发" scheme="https://www.zerofc.cn/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="Cocos" scheme="http://z11r00.github.io/tags/Cocos/"/>
+    <category term="Cocos" scheme="https://www.zerofc.cn/tags/Cocos/"/>
     
   </entry>
   
   <entry>
     <title>YOLO+SlowFast+DeepSORT 简单实现视频行为识别</title>
-    <link href="http://z11r00.github.io/2024/05/30/YOLO+SlowFast+DeepSORT%20%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB/"/>
-    <id>http://z11r00.github.io/2024/05/30/YOLO+SlowFast+DeepSORT%20%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/YOLO+SlowFast+DeepSORT%20%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB/"/>
+    <id>https://www.zerofc.cn/2024/05/30/YOLO+SlowFast+DeepSORT%20%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0%E8%A7%86%E9%A2%91%E8%A1%8C%E4%B8%BA%E8%AF%86%E5%88%AB/</id>
     <published>2024-05-30T09:13:50.000Z</published>
     <updated>2024-05-31T02:41:12.627Z</updated>
     
@@ -153,17 +153,17 @@
     
     
     
-    <category term="人工智能" scheme="http://z11r00.github.io/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <category term="人工智能" scheme="https://www.zerofc.cn/categories/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
     
     
-    <category term="计算机视觉" scheme="http://z11r00.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
+    <category term="计算机视觉" scheme="https://www.zerofc.cn/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/"/>
     
   </entry>
   
   <entry>
     <title>三种方式，浅谈 Cocos Creator 的动画添加</title>
-    <link href="http://z11r00.github.io/2024/05/30/%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%B5%85%E8%B0%88%20Cocos%20Creator%20%E7%9A%84%E5%8A%A8%E7%94%BB%E6%B7%BB%E5%8A%A0/"/>
-    <id>http://z11r00.github.io/2024/05/30/%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%B5%85%E8%B0%88%20Cocos%20Creator%20%E7%9A%84%E5%8A%A8%E7%94%BB%E6%B7%BB%E5%8A%A0/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%B5%85%E8%B0%88%20Cocos%20Creator%20%E7%9A%84%E5%8A%A8%E7%94%BB%E6%B7%BB%E5%8A%A0/"/>
+    <id>https://www.zerofc.cn/2024/05/30/%E4%B8%89%E7%A7%8D%E6%96%B9%E5%BC%8F%EF%BC%8C%E6%B5%85%E8%B0%88%20Cocos%20Creator%20%E7%9A%84%E5%8A%A8%E7%94%BB%E6%B7%BB%E5%8A%A0/</id>
     <published>2024-05-30T09:13:50.000Z</published>
     <updated>2024-06-01T03:59:51.420Z</updated>
     
@@ -177,17 +177,17 @@
     
     
     
-    <category term="游戏开发" scheme="http://z11r00.github.io/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
+    <category term="游戏开发" scheme="https://www.zerofc.cn/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="Cocos" scheme="http://z11r00.github.io/tags/Cocos/"/>
+    <category term="Cocos" scheme="https://www.zerofc.cn/tags/Cocos/"/>
     
   </entry>
   
   <entry>
     <title>初探 Cocos Creator： 碰撞与物理系统</title>
-    <link href="http://z11r00.github.io/2024/05/30/%E5%88%9D%E6%8E%A2%20Cocos%20Creator%EF%BC%9A%20%E7%A2%B0%E6%92%9E%E4%B8%8E%E7%89%A9%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
-    <id>http://z11r00.github.io/2024/05/30/%E5%88%9D%E6%8E%A2%20Cocos%20Creator%EF%BC%9A%20%E7%A2%B0%E6%92%9E%E4%B8%8E%E7%89%A9%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/%E5%88%9D%E6%8E%A2%20Cocos%20Creator%EF%BC%9A%20%E7%A2%B0%E6%92%9E%E4%B8%8E%E7%89%A9%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    <id>https://www.zerofc.cn/2024/05/30/%E5%88%9D%E6%8E%A2%20Cocos%20Creator%EF%BC%9A%20%E7%A2%B0%E6%92%9E%E4%B8%8E%E7%89%A9%E7%90%86%E7%B3%BB%E7%BB%9F/</id>
     <published>2024-05-30T08:40:50.000Z</published>
     <updated>2024-05-31T02:45:57.337Z</updated>
     
@@ -201,17 +201,17 @@
     
     
     
-    <category term="游戏开发" scheme="http://z11r00.github.io/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
+    <category term="游戏开发" scheme="https://www.zerofc.cn/categories/%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="Cocos" scheme="http://z11r00.github.io/tags/Cocos/"/>
+    <category term="Cocos" scheme="https://www.zerofc.cn/tags/Cocos/"/>
     
   </entry>
   
   <entry>
     <title>hexo实战：（一）零成本搭建个人独立博客</title>
-    <link href="http://z11r00.github.io/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%B8%80%EF%BC%89%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://z11r00.github.io/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%B8%80%EF%BC%89%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%B8%80%EF%BC%89%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://www.zerofc.cn/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%B8%80%EF%BC%89%E9%9B%B6%E6%88%90%E6%9C%AC%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/</id>
     <published>2024-05-30T08:13:50.000Z</published>
     <updated>2024-05-30T12:03:20.141Z</updated>
     
@@ -226,17 +226,17 @@
     
     
     
-    <category term="前端开发" scheme="http://z11r00.github.io/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="前端开发" scheme="https://www.zerofc.cn/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="Hexo" scheme="http://z11r00.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.zerofc.cn/tags/Hexo/"/>
     
   </entry>
   
   <entry>
     <title>hexo实战：（二）个人独立博客豪华装修合集</title>
-    <link href="http://z11r00.github.io/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B1%AA%E5%8D%8E%E8%A3%85%E4%BF%AE%E5%90%88%E9%9B%86/"/>
-    <id>http://z11r00.github.io/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B1%AA%E5%8D%8E%E8%A3%85%E4%BF%AE%E5%90%88%E9%9B%86/</id>
+    <link href="https://www.zerofc.cn/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B1%AA%E5%8D%8E%E8%A3%85%E4%BF%AE%E5%90%88%E9%9B%86/"/>
+    <id>https://www.zerofc.cn/2024/05/30/hexo%E5%AE%9E%E6%88%98%EF%BC%9A%EF%BC%88%E4%BA%8C%EF%BC%89%E4%B8%AA%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2%E8%B1%AA%E5%8D%8E%E8%A3%85%E4%BF%AE%E5%90%88%E9%9B%86/</id>
     <published>2024-05-30T08:13:50.000Z</published>
     <updated>2024-06-03T08:23:30.893Z</updated>
     
@@ -247,10 +247,10 @@
     
     
     
-    <category term="前端开发" scheme="http://z11r00.github.io/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
+    <category term="前端开发" scheme="https://www.zerofc.cn/categories/%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91/"/>
     
     
-    <category term="Hexo" scheme="http://z11r00.github.io/tags/Hexo/"/>
+    <category term="Hexo" scheme="https://www.zerofc.cn/tags/Hexo/"/>
     
   </entry>
   
